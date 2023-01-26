@@ -1,2 +1,2 @@
 # northface
-István,Zalán,Kristóf
+Héring István,Prion Zalán,Somogyi Kristóf
